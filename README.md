@@ -1,1 +1,6 @@
-# storesystem
+# Store system
+
+## Used libraries
+- mariadb
+- datetime
+- tabulate
